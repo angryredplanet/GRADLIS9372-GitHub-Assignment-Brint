@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="item6" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 <p>
@@ -26,5 +24,3 @@ credits: true
 <p>
     <span style="font-size:14px;">This is M. Brint's introduction to GitHub, and the possibilities of digital web design.</span>
 </p>
-
-{% include cb/about_the_about.md %} 
